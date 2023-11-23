@@ -1,0 +1,2 @@
+# staticwebsite
+creating a website
